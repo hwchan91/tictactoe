@@ -4,7 +4,7 @@ A game of tic-tac-toe played with command line interface.
 Player can play against another person or an unbeatable AI.
 * As a bonus, an option for 0 players is included (my respects to [War Games](https://en.wikipedia.org/wiki/WarGames) - "the only winning move is not to play")
 
-Working example: https://repl.it/HF9z/4
+Working example: https://repl.it/HAHH/0
 
 ## Usage
 
