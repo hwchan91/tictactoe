@@ -1,15 +1,15 @@
-# Hangman
+# Tic-Tac-Toe
 
-Hangman game played with command line interface, game can also be saved and loaded.
-Press 1 to guess a random word.
-Press 2 to make the AI guess your word.
+A game of tic-tac-toe played with command line interface.
+Player can play against another person or an unbeatable AI.
+* As a bonus, an option for 0 players is included (my respects to [War Games](https://en.wikipedia.org/wiki/WarGames) - "the only winning move is not to play")
 
 Working example: https://repl.it/HF9z/4
 
 ## Usage
 
 ```
-ruby hangman_with_ai.rb
+ruby tiatactoe.rb
 ```
 
 
@@ -24,4 +24,4 @@ ruby hangman_with_ai.rb
 
 ## Acknowledgements
 
-* This project is part of [The Odin Project Curriculum](https://www.theodinproject.com/courses/ruby-programming/lessons/file-i-o-and-serialization)
+* This project is part of [The Odin Project Curriculum](https://www.theodinproject.com/courses/ruby-programming/lessons/oop)
